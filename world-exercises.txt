@@ -1,10 +1,20 @@
-1. SELECT...
-2. xx
+1. SELECT COUNT(*) FROM city WHERE CountryCode = "USA";
+2. SELECT LifeExpectancy, Population FROM country WHERE code = "ARG";
 3. xx
 4. xx
 5. xx
 6. xx
-7. xx
+7. SELECT COUNT(*) FROM city WHERE CountryCode = "CHN";
 8. xx
 9. xx
 10. xx
+11. xx
+12. xx
+13. xx
+14. SELECT DISTINCT language FROM countrylanguage;
+15. xx
+16. xx
+17. xx
+18. SELECT MIN(LifeExpectancy) FROM country; SELECT Name FROM country WHERE LifeExpctancy = "37.2";
+19. xx
+20. xx
